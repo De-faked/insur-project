@@ -732,11 +732,6 @@ nav a:hover {
     margin-top: -50px;
   }
 
-  /* .footer-logo {
-        
-        margin-left: 60px;
-        margin-top: 100px;
-    } */
 
   .footer-logo-icon {
     display: flex;
@@ -756,7 +751,7 @@ nav a:hover {
     height: 160px;
     width: 160px;
     text-align: left;
-    font-size: 7px;
+    font-size: 20px;
     font-weight: 0;
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   }
