@@ -316,7 +316,7 @@ nav a:hover {
   }
   .right-img-down-mobile img {
     width: 100%;
-    background-size: cover;
+    /* background-size: cover; */
   }
 
   .big-box {
